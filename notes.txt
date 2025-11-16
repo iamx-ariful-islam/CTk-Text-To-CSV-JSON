@@ -1,0 +1,10 @@
+1. Show file(s) full path with comma separated
+2. Open text file dialog box by clicking "Browse File(s)"
+3. Open csv file dialog box by clicking "Set CSV File"
+4. Browse single file at a time
+5. Browse multiple files at a time
+6. Generate indivisual output file or not
+7. Enter output file name (Optional)
+8. Show the output result data
+9. Change/Select the theme mode (Default: Dark)
+10. Select the output file type for generate file(s) [TEXT File, JSON File, CSV File]
